@@ -1,0 +1,2 @@
+<?
+require "dbcon.ash.php";
